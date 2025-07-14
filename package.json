@@ -1,0 +1,22 @@
+{
+    "name": "uk-blocks-selecter",
+    "version": "1.0.0",
+    "description": "WordPress plugin for selecting available blocks per custom post type",
+    "main": "uk-blocks-selecter.php",
+    "scripts": {
+        "build": "echo 'No build process needed for this plugin'",
+        "dev": "echo 'Development mode - no build process needed'",
+        "watch": "echo 'No watch process needed for this plugin'"
+    },
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "blocks",
+        "gutenberg",
+        "custom-post-types"
+    ],
+    "author": "Your Name",
+    "license": "GPL-2.0+",
+    "devDependencies": {},
+    "dependencies": {}
+}
